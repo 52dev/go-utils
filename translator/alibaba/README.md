@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-go get -u github.com/chenmingyong/go-utils/translator/alibaba
+go get -u github.com/52dev/go-utils/translator/alibaba
 ```
 
 ## 快速开始
@@ -27,7 +27,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"github.com/chenmingyong/go-utils/translator/alibaba"
+	"github.com/52dev/go-utils/translator/alibaba"
 )
 
 func main() {
@@ -362,5 +362,5 @@ github.com/alibabacloud-go/tea v1.4.0
 - [阿里云机器翻译官方文档](https://help.aliyun.com/product/2477301.html)
 - [阿里云控制台](https://console.aliyun.com/)
 - [阿里云 API 参考](https://next.api.aliyun.com/document/Mt/2018-10-12/Translate)
-- [项目主页](https://github.com/chenmingyong/go-utils)
+- [项目主页](https://github.com/52dev/go-utils)
 

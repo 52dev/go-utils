@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/chenmingyong/go-utils/translator/volc"
+	"github.com/52dev/go-utils/translator/volc"
 )
 
 func main() {

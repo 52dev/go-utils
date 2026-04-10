@@ -13,7 +13,7 @@ Google 翻译是谷歌提供的强大在线翻译服务，支持 100+ 种语言�
 ## 安装
 
 ```bash
-go get -u github.com/chenmingyong/go-utils/translator/google
+go get -u github.com/52dev/go-utils/translator/google
 ```
 
 ## 快速开始
@@ -26,7 +26,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"github.com/chenmingyong/go-utils/translator/google"
+	"github.com/52dev/go-utils/translator/google"
 )
 
 func main() {
@@ -388,4 +388,4 @@ google.golang.org/api v0.269.0
 - [Google Translate API 文档](https://cloud.google.com/translate/docs)
 - [Google Translate 语言代码](https://cloud.google.com/translate/docs/languages)
 - [Google Cloud Console](https://console.cloud.google.com/)
-- [项目主页](https://github.com/chenmingyong/go-utils)
+- [项目主页](https://github.com/52dev/go-utils)
