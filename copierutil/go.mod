@@ -3,8 +3,8 @@ module github.com/52dev/go-utils/copierutil
 go 1.25.0
 
 require (
-	github.com/jinzhu/copier v0.4.0
 	github.com/52dev/go-utils v1.0.0
+	github.com/jinzhu/copier v0.4.0
 )
 
 require (
