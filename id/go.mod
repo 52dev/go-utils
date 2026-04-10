@@ -10,7 +10,7 @@ require (
 	github.com/segmentio/ksuid v1.0.4
 	github.com/sony/sonyflake v1.3.0
 	github.com/stretchr/testify v1.11.1
-	github.com/52dev/go-utils v1.1.34
+	github.com/52dev/go-utils v1.0.0
 	go.mongodb.org/mongo-driver/v2 v2.5.0
 )
 
