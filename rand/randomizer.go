@@ -1,7 +1,7 @@
 package rand
 
 import (
-	"github.com/tx7do/go-utils/math"
+	"github.com/52dev/go-utils/math"
 	"math/rand"
 )
 

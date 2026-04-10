@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/52dev/go-utils/sliceutil"
 	"github.com/stretchr/testify/assert"
-	"github.com/tx7do/go-utils/sliceutil"
 )
 
 type MyInt int

@@ -7,7 +7,7 @@
 ```go
 package main
 
-import "github.com/tx7do/go-utils/name_generator"
+import "github.com/52dev/go-utils/name_generator"
 
 func main() {
 	g := name_generator.New()
@@ -41,7 +41,7 @@ Generated compound surname double name (male): 宗政辰宁
 ```go
 package main
 
-import "github.com/tx7do/go-utils/name_generator"
+import "github.com/52dev/go-utils/name_generator"
 
 func main() {
 	g := name_generator.New()
@@ -77,7 +77,7 @@ Generated male English name: Valentine Roderick Hayes
 ```go
 package main
 
-import "github.com/tx7do/go-utils/name_generator"
+import "github.com/52dev/go-utils/name_generator"
 
 func main() {
 	g := name_generator.New()
@@ -103,7 +103,7 @@ Generated Japanese name (CN): 瀬尾和子
 ```go
 package main
 
-import "github.com/tx7do/go-utils/name_generator"
+import "github.com/52dev/go-utils/name_generator"
 
 func main() {
 	g := name_generator.New()
@@ -129,7 +129,7 @@ Generated Japanese name: 渋沢洋
 ```go
 package main
 
-import "github.com/tx7do/go-utils/name_generator"
+import "github.com/52dev/go-utils/name_generator"
 
 func main() {
 	g := name_generator.New()

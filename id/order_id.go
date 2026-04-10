@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/tx7do/go-utils/trans"
+	"github.com/52dev/go-utils/trans"
 )
 
 type idCounter uint32

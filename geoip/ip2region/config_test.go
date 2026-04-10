@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tx7do/go-utils/geoip/ip2region/assets"
+	"github.com/52dev/go-utils/geoip/ip2region/assets"
 )
 
 func TestV4Config(t *testing.T) {

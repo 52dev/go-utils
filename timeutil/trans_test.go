@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/52dev/go-utils/trans"
 	"github.com/stretchr/testify/assert"
-	"github.com/tx7do/go-utils/trans"
 
 	"google.golang.org/protobuf/types/known/durationpb"
 	"google.golang.org/protobuf/types/known/timestamppb"

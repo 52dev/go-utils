@@ -84,7 +84,7 @@ import (
   "fmt"
   "time"
 
-  "github.com/tx7do/go-utils/eventloop"
+  "github.com/52dev/go-utils/eventloop"
 )
 
 type myProc struct{}

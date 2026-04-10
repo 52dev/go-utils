@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tx7do/go-utils/geoip"
-	"github.com/tx7do/go-utils/geoip/ip2region/assets"
+	"github.com/52dev/go-utils/geoip"
+	"github.com/52dev/go-utils/geoip/ip2region/assets"
 )
 
 type Client struct {

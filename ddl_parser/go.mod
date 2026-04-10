@@ -1,4 +1,4 @@
-module github.com/tx7do/go-utils/ddl_parser
+module github.com/52dev/go-utils/ddl_parser
 
 go 1.23.0
 
@@ -15,4 +15,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/tx7do/go-utils => ../
+replace github.com/52dev/go-utils => ../

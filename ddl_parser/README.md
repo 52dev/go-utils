@@ -10,7 +10,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/tx7do/go-utils/ddl_parser"
+	"github.com/52dev/go-utils/ddl_parser"
 )
 
 func main() {

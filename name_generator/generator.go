@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tx7do/go-utils/name_generator/assets"
+	"github.com/52dev/go-utils/name_generator/assets"
 )
 
 type Generator struct {

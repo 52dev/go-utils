@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
+	"github.com/52dev/go-utils/maputils"
 	"github.com/stretchr/testify/assert"
-	"github.com/tx7do/go-utils/maputils"
 )
 
 func TestKeys(t *testing.T) {

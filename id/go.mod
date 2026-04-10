@@ -1,6 +1,6 @@
-module github.com/tx7do/go-utils/id
+module github.com/52dev/go-utils/id
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/bwmarrin/snowflake v0.3.0
@@ -10,7 +10,7 @@ require (
 	github.com/segmentio/ksuid v1.0.4
 	github.com/sony/sonyflake v1.3.0
 	github.com/stretchr/testify v1.11.1
-	github.com/tx7do/go-utils v1.1.34
+	github.com/52dev/go-utils v1.1.34
 	go.mongodb.org/mongo-driver/v2 v2.5.0
 )
 
@@ -22,4 +22,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/tx7do/go-utils => ../
+replace github.com/52dev/go-utils => ../

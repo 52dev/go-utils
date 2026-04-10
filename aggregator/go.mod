@@ -1,4 +1,4 @@
-module github.com/tx7do/go-utils/aggregator
+module github.com/52dev/go-utils/aggregator
 
 go 1.24.0
 

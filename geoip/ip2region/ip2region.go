@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tx7do/go-utils/geoip/ip2region/xdb"
+	"github.com/52dev/go-utils/geoip/ip2region/xdb"
 )
 
 type Ip2Region struct {

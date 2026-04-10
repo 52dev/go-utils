@@ -1,17 +1,15 @@
-module github.com/tx7do/go-utils/copierutil
+module github.com/52dev/go-utils/copierutil
 
-go 1.24.0
-
-toolchain go1.24.3
+go 1.25.0
 
 require (
 	github.com/jinzhu/copier v0.4.0
-	github.com/tx7do/go-utils v1.1.34
+	github.com/52dev/go-utils v1.1.34
 )
 
 require (
 	github.com/stretchr/testify v1.11.1
-	google.golang.org/protobuf v1.36.10
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
@@ -22,4 +20,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/tx7do/go-utils => ../
+replace github.com/52dev/go-utils => ../

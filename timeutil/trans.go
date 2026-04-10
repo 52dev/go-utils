@@ -6,7 +6,7 @@ import (
 	"google.golang.org/protobuf/types/known/durationpb"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	"github.com/tx7do/go-utils/trans"
+	"github.com/52dev/go-utils/trans"
 )
 
 var defaultTimeLocation *time.Location

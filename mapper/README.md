@@ -8,7 +8,7 @@
 package main
 
 import (
-	"github.com/tx7do/go-utils/mapper"
+	"github.com/52dev/go-utils/mapper"
 )
 
 func main() {
@@ -46,7 +46,7 @@ func main() {
 ```go
 package main
 
-import "github.com/tx7do/go-utils/mapper"
+import "github.com/52dev/go-utils/mapper"
 
 func main() {
 	type DtoType int32

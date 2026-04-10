@@ -7,9 +7,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/tx7do/go-utils/geoip"
+	"github.com/52dev/go-utils/geoip"
 
-	"github.com/tx7do/go-utils/geoip/qqwry/assets"
+	"github.com/52dev/go-utils/geoip/qqwry/assets"
 )
 
 type Client struct {

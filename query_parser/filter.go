@@ -6,7 +6,7 @@ import (
 	"github.com/go-kratos/kratos/v2/encoding"
 	_ "github.com/go-kratos/kratos/v2/encoding/json"
 
-	"github.com/tx7do/go-utils/stringcase"
+	"github.com/52dev/go-utils/stringcase"
 )
 
 type FilterOperator string

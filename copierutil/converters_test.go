@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	"github.com/tx7do/go-utils/timeutil"
-	"github.com/tx7do/go-utils/trans"
+	"github.com/52dev/go-utils/timeutil"
+	"github.com/52dev/go-utils/trans"
 )
 
 func TestNewTypeConverter(t *testing.T) {

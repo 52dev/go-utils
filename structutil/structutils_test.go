@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/52dev/go-utils/structutil"
 	"github.com/stretchr/testify/assert"
-	"github.com/tx7do/go-utils/structutil"
 )
 
 type TestStruct struct {
