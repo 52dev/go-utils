@@ -21,3 +21,5 @@ require (
 	github.com/rogpeppe/go-internal v1.13.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/52dev/go-utils => ../
